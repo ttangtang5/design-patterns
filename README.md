@@ -1,2 +1,3 @@
-# design-patterns
-design patterns example
+# 设计模式
+## 设计原则
+## 
